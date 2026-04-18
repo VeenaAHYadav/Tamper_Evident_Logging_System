@@ -91,11 +91,11 @@ cd tamper-logs
 pip install streamlit flask
 ```
 
-###3. Run the system
+### 3. Run the system
 ```bash
 python -m tamper_logs.main
 ```
-###4. Launch dashboard
+### 4. Launch dashboard
 ```bash
 streamlit run tamper_logs/dashboard/dashboard.py
 ```
